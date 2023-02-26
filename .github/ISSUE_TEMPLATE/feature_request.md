@@ -13,10 +13,10 @@ assignees: ''
 **Describa la solución que le gustaría**
 <!-- Una descripción clara y concisa de lo que quieres que suceda. -->
 
-**Describa las alternativas que ha considerado**
+**Describa las alternativas que ha considerado (opcional)**
 <!-- Una descripción clara y concisa de cualquier solución o feature alternativa que haya considerado. -->
 
-**Contexto adicional**
+**Contexto adicional (opcional)**
 <!-- Agregar cualquier otro contexto o screenshots para dar más contexto de tu idea. -->
 
 -----
